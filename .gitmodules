@@ -13,6 +13,3 @@
 [submodule "bundle/tasklist"]
 	path = bundle/tasklist
 	url = git@github.com:superjudge/tasklist-pathogen.git
-[submodule "bundle/vimerl"]
-	path = bundle/vimerl
-	url = git@github.com:superjudge/vimerl.git
