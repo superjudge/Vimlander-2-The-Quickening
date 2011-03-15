@@ -26,5 +26,6 @@ Bundle 'TaskList.vim'
 Bundle 'scala.vim'
 Bundle 'pydoc.vim'
 Bundle 'Gundo'
+Bundle 'django.vim'
 Bundle "git://github.com/bingaman/vim-sparkup.git"
 Bundle "git://github.com/superjudge/vimerl.git"
