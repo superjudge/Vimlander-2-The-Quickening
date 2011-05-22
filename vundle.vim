@@ -33,5 +33,6 @@ Bundle 'django.vim'
 Bundle 'mako.vim'
 Bundle 'mako.vim--Torborg'
 Bundle 'Jinja'
+Bundle 'pep8'
 Bundle "git://github.com/bingaman/vim-sparkup.git"
 Bundle "git://github.com/superjudge/vimerl.git"
