@@ -25,7 +25,13 @@ Bundle 'pyflakes.vim'
 Bundle 'TaskList.vim'
 Bundle 'scala.vim'
 Bundle 'pydoc.vim'
+Bundle 'coffee.vim'
+Bundle 'jade.vim'
 Bundle 'Gundo'
+Bundle 'python.vim--Vasiliev'
 Bundle 'django.vim'
+Bundle 'mako.vim'
+Bundle 'mako.vim--Torborg'
+Bundle 'Jinja'
 Bundle "git://github.com/bingaman/vim-sparkup.git"
 Bundle "git://github.com/superjudge/vimerl.git"
