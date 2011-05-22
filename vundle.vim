@@ -15,6 +15,17 @@ Bundle "git://github.com/tpope/vim-markdown.git"
 Bundle "git://github.com/scrooloose/nerdtree.git"
 Bundle "git://github.com/scrooloose/nerdcommenter.git"
 Bundle "git://github.com/pangloss/vim-javascript.git"
+Bundle "git://github.com/chrismetcalf/vim-taglist.git"
+Bundle "git://github.com/kchmck/vim-coffee-script.git"
+Bundle "git://github.com/pangloss/vim-javascript.git"
+Bundle "git://github.com/ervandew/supertab.git"
+Bundle "git://github.com/tpope/vim-vividchalk.git"
+Bundle "git://github.com/Lokaltog/vim-distinguished.git"
+Bundle "git://github.com/Lokaltog/vim-easymotion.git"
+Bundle "git://github.com/scrooloose/syntastic.git"
+Bundle "git://github.com/tyru/current-func-info.vim.git"
+Bundle "git://github.com/cespare/vim-bclose.git"
+Bundle "git://github.com/vim-scripts/LustyExplorer.git"
 Bundle "git://github.com/ervandew/supertab.git"
 Bundle "ack.vim"
 Bundle 'L9'
@@ -25,7 +36,7 @@ Bundle 'pyflakes.vim'
 Bundle 'TaskList.vim'
 Bundle 'scala.vim'
 Bundle 'pydoc.vim'
-Bundle 'coffee.vim'
+"Bundle 'coffee.vim'
 Bundle 'jade.vim'
 Bundle 'Gundo'
 Bundle 'python.vim--Vasiliev'
@@ -34,5 +45,6 @@ Bundle 'mako.vim'
 Bundle 'mako.vim--Torborg'
 Bundle 'Jinja'
 Bundle 'pep8'
+Bundle "VimClojure"
 Bundle "git://github.com/bingaman/vim-sparkup.git"
 Bundle "git://github.com/superjudge/vimerl.git"
