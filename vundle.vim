@@ -27,6 +27,7 @@ Bundle "git://github.com/tyru/current-func-info.vim.git"
 Bundle "git://github.com/cespare/vim-bclose.git"
 Bundle "git://github.com/vim-scripts/LustyExplorer.git"
 Bundle "git://github.com/ervandew/supertab.git"
+Bundle "git://github.com/wlangstroth/vim-racket.git"
 Bundle "ack.vim"
 Bundle 'L9'
 Bundle 'FuzzyFinder'
