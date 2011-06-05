@@ -28,9 +28,9 @@ Bundle "git://github.com/cespare/vim-bclose.git"
 Bundle "git://github.com/vim-scripts/LustyExplorer.git"
 Bundle "git://github.com/ervandew/supertab.git"
 Bundle "git://github.com/wlangstroth/vim-racket.git"
-Bundle "ack.vim"
-Bundle 'L9'
-Bundle 'FuzzyFinder'
+"Bundle "ack.vim"
+"Bundle 'L9'
+"Bundle 'FuzzyFinder'
 Bundle 'superSnipMate'
 Bundle 'taglist.vim'
 Bundle 'pyflakes.vim'
@@ -49,3 +49,6 @@ Bundle 'pep8'
 Bundle "VimClojure"
 Bundle "git://github.com/bingaman/vim-sparkup.git"
 Bundle "git://github.com/superjudge/vimerl.git"
+Bundle "git://github.com/vim-scripts/L9.git"
+Bundle "git://github.com/vim-scripts/FuzzyFinder.git"
+Bundle "ack.vim"
